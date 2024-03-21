@@ -1,7 +1,7 @@
 # Creating the portfolio
 
 - Identifying the State
-- creating a website to display only projects that we had done
+- creating a website to display only projects that I had done
 - Updating the styles based on State
 
 ### Set up Instructions 
