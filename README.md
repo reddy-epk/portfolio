@@ -1,4 +1,4 @@
-# Creating the portfoio
+# Creating the portfoilio
 
 - Identifying the State
 - creating a website to display only projects that we had done
